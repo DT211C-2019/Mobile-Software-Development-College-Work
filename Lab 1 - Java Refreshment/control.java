@@ -11,5 +11,6 @@ public class control {
         System.out.println(daniilMedvedev);
 
         System.out.println(daniilMedvedev.getCount());
+
     }
 }
