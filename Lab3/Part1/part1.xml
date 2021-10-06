@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<researcher> 
+    <name gender="Male">Alan</name>
+    <middle>Mathison</middle>
+    <surname>Turning</surname>
+    <dob>23 June 1912</dob>
+    <dad>XX XXXX 1954</dad>
+    <birthCity>London</birthCity>
+    <country>England</country>
+    <degree score="2.1">Mathematics (Honors)</degree>
+</researcher>
